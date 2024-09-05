@@ -1,1 +1,2 @@
-
+SMTP user: qmazn8sjb2@39494241.smtp.hubspot.net
+SMTP pass: tSjHPdzEErWfHKyrZmuM9H1shpd8kh
