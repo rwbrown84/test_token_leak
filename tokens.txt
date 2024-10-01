@@ -1,2 +1,2 @@
-SMTP user: uiovzvjksz@888214488.smtp.hubspot.net
-SMTP pass: ZMMIk13uxOrlpZW7qzEFsTHGZwaygq
+SMTP user: oz4je3hfll@888214488.smtp.hubspot.net
+SMTP pass: LpshCUZHc3nrTJEltyo8qpTpUfy97S
