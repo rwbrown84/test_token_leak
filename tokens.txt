@@ -1,3 +1,3 @@
 SMTP user: 
 SMTP pass: 
-CiQ0YTI4NmVkYS1kOWFlLTQ4MmUtYTUxYy02MmM1ZGE4NzI4OTUQ9MbsFBil-KEYKhkABeaRgjpd-Ym3qMsBMgZkqExO8WFtfIIqSgNuYTE
+https://api.hubapi.com/integrations/v1/<application id>/timeline/event-types?hapikey=e3cabdf8-cca6-49fb-8c4e-8067caacf418&userId=50887717
