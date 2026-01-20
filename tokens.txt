@@ -1,3 +1,1 @@
-SMTP user: 
-SMTP pass: 
-https://api.hubapi.com/integrations/v1/<application id>/timeline/event-types?hapikey=
+pat-na1-fe4470ce-76f1-454b-beb5-a52d82fc7acf
